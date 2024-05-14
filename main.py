@@ -1,19 +1,38 @@
 import networkx as nx
 import ndjson
 import json
+import csv
+
+# read jlpt kanji list
+kanji = set()
+with open('data/kanji_JLPT_N5.csv', 'r') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        kanji.add(row['Kanji'])
 
 # read ndjson data and create graph
 dag = nx.DiGraph()
+hanzi = set()
 
 with open('data/dictionary.txt', 'r') as f:
     reader = ndjson.reader(f)
 
     for row in reader:
+        hanzi.add(row['character'])
+
+        # skip non-kanji
+        if row['character'] not in kanji:
+            continue
+
         dag.add_node(row['character'], data=row)
         
-        for parent in row['decomposition']:
-            if parent not in '？⿰⿱⿻⿳⿺⿸⿲⿹⿴⿵⿶⿷':
-                dag.add_edge(parent, row['character'])
+        #for parent in row['decomposition']:
+        #    if parent not in '？⿰⿱⿻⿳⿺⿸⿲⿹⿴⿵⿶⿷':
+        #        dag.add_edge(parent, row['character'])
+
+
+print(kanji.difference(hanzi))
+exit(0)
 
 # compute topological generations
 generations = nx.topological_generations(dag)
