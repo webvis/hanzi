@@ -1,0 +1,104 @@
+Group,Kanji,English Meaning,Onyomi,Kunyomi,JLPT N5 Vocab with Kanji
+Numbers,一,One,"ichi, itsu","hito(tsu), hito","一人 (one person, alone)"
+Numbers,二,Two,ni,"futa(tsu), futa","二人 (two people, pair)"
+Numbers,三,Three,san,"mit(tsu), mi",三日 (3rd day of the month)
+Numbers,四,Four,shi,"yo(tsu), yo, yon",四日 (4th day of the month)
+Numbers,五,Five,go,"itsu(tsu), itsu",五日 (5th day of the month)
+Numbers,六,Six,roku,"mut(tsu), mu",六日 (6th day of the month)
+Numbers,七,Seven,shichi,"nana(tsu), nana",七日 (7th day of the month)
+Numbers,八,Eight,hachi,"yat(tsu), ya",八日 (8th day of the month)
+Numbers,九,Nine,"kyuu, ku","kokono(tsu), kokono",九日 (9th day of the month)
+Numbers,十,Ten,"juu, ji","tou, to",十日 (10th day of the month)
+Numbers,百,Hundred,hyaku,—,百万円 (1 million Yen)
+Numbers,千,Thousand,sen,chi,千万円 (10 million Yen)
+Numbers,万,Ten thousand,"man, ban",—,万年筆 (fountain pen)
+Numbers,円,"Yen, circle, and round",en,maru(i),円い (round)
+Time,日,"Day, sun","nichi, jitsu","hi, ka",明日 (tomorrow)
+Time,週,Week,shuu,—,毎週 (every week)
+Time,月,"Month, moon","getsu, gatsu",tsuki,月曜日 (Monday)
+Time,年,Year,nen,toshi,"今年 (this year), 去年 (last year)"
+Time,時,"Time, hour",ji,toki,"時計 (clock, watch)"
+Time,間,"Time frame, span of time","kan, ken",aida,"時間 (time, hours)"
+Time,分,"Minute, part, to understand, to divide","bun, bu, fun",wa(karu),"三十分 (thirty minutes), 自分 (oneself)"
+Time,午,Noon,go,—,"午前 (morning, A.M.)"
+Time,前,Before,zen,mae,名前 (name)
+Time,後,"After, later, behind","go, kou",ato,"午後 (afternoon, P.M.)"
+Time,今,Now,"kon, kin",ima,"今晩 (this evening), 今朝 (this morning)"
+Time,先,"Before, ahead, future",sen,saki,"先週 (last week), 先生 (teacher, master)"
+Time,来,To come,rai,ku(ru),"来月 (next month), 来る (to come)"
+Time,半,"Half, middle",han,naka(ba),半分 (half)
+Time,毎,"Every, each",mai,—,毎日(every day)
+Time,何,"What, which, how many",ka,"nan, nani",何曜日 (what day of the week)
+People and Things,人,Person,"jin, nin",hito,人々 (people)
+People and Things,男,"Man, boy, male","dan, nan",otoko,男の子 (boy)
+People and Things,女,"Woman, girl, female","jo, nyo","onna, me",女の子 (girl)
+People and Things,子,Child,"shi, su",ko,子供 (child)
+People and Things,母,Mother,bo,haha,母 (mother)
+People and Things,父,Father,fu,chichi,父 (father)
+People and Things,友,Friend,yuu,tomo,友達 (friend)
+People and Things,火,Fire,ka,hi,火曜日 (Tuesday)
+People and Things,水,Water,sui,mizu,水曜日 (Wednesday)
+People and Things,木,"Tree, wood","moku, boku","ki, ko",木曜日 (Thursday)
+People and Things,土,"Earth, ground","do, to",tsuchi,土曜日 (Saturday)
+People and Things,金,"Money, gold","kin, kon",kane,金曜日 (Friday)
+People and Things,本,"Book, source",hon,moto,日本語 (Japanese)
+People and Things,川,River,sen,kawa,川 (river)
+People and Things,花,Flower,ka,hana,花火 (fireworks)
+People and Things,気,Spirit,"ki, ke",—,"元気 (healthy, spirit, fine)"
+People and Things,生,"Life, to live, to be born, to grow","sei, shou","i(kiru), u(mareru), ha(yasu)",生徒 (pupil)
+People and Things,魚,Fish,gyo,sakana,魚 (fish)
+People and Things,天,Heaven,ten,"ame, ama",天気 (weather)
+People and Things,空,"Sky, empty",kuu,"sora, a(keru)",空 (sky)
+People and Things,山,Mountain,san,yama,山 (mountain)
+People and Things,雨,Rain,u,ame,雨 (rain)
+People and Things,電,Electricity,den,—,電気 (electricity)
+People and Things,車,"Car, vehicle",sha,kuruma,電車 (electric train)
+People and Things,語,"Language, word, to chat",go,kata(ru),英語 (English)
+People and Things,耳,Ear,ji,mimi,耳 (ear)
+People and Things,手,Hand,shu,te,手紙 (letter)
+People and Things,足,"Foot, to add",soku,"ashi, ta(su)",足 (foot)
+People and Things,目,Eye,moku,me,目 (eye)
+People and Things,口,Mouth,"kou, ku",kuchi,出口 (exit)
+People and Things,名,Name,"mei, myou",na,名前 (name)
+Places and Directions,店,Shop,ten,mise,喫茶店 (coffee shop)
+Places and Directions,駅,Station,eki,—,駅前 (in front of the station)
+Places and Directions,道,"Street, path, way",dou,michi,道具 (tool)
+Places and Directions,社,"Shrine, society",sha,yashiro,社長 (president of a company)
+Places and Directions,国,Country,koku,kuni,外国人 (foreigner)
+Places and Directions,外,Outside,"gai, ge","soto, hazu(reru), hoka",外国 (foreign country)
+Places and Directions,学,"School, learning",gaku,mana(bu),大学 (university)
+Places and Directions,校,School,kou,—,学校 (school)
+Places and Directions,上,"Up, above","shou, jou","ue, u, a(geru)",上着 (jacket)
+Places and Directions,下,"Down, below","ka, ge","ku(daru), shita",靴下 (socks)
+Places and Directions,中,"Middle, center, inner, between",chuu,naka,"日中 (during the day, midday)"
+Places and Directions,北,North,hoku,kita,北 (north)
+Places and Directions,西,West,"sai, sei",nishi,西 (west)
+Places and Directions,東,East,tou,higashi,東京 (Tokyo)
+Places and Directions,南,South,nan,minami,南 (south)
+Places and Directions,右,Right,yuu,migi,右 (right)
+Places and Directions,左,Left,sa,hidari,左 (left)
+Verbs,見,"To see, to be visible, to show",ken,mi(ru),見せる (to show)
+Verbs,聞,"To hear, to listen, to ask","mon, bun",ki(ku),"聞く (to listen, to hear)"
+Verbs,書,To write,sho,ka(ku),辞書 (dictionary)
+Verbs,読,To read,doku,yo(mu),読む (to read)
+Verbs,話,"To talk, conversation",wa,"hanashi, hana(su)",電話 (telephone)
+Verbs,買,To buy,bai,ka(u),買い物 (shopping)
+Verbs,行,"To go, to carry out",kou,"i(ku), okona(u)",銀行 (bank)
+Verbs,出,"To go out, to leave",shutsu,"de(ru), da(su)",出かける (to go out)
+Verbs,入,"To enter, to put in",nyuu,"hai(ru), i(reru)",入口 (entrance)
+Verbs,休,"To rest, break, holiday, vacation",kyuu,"yasu(mu), yasu(mi)",休む (to take a day off)
+Verbs,食,"To eat, food",shoku,ta(beru),食堂 (dining room)
+Verbs,飲,"To drink, a drink",in,no(mu),飲み物 (beverage)
+Verbs,言,"To talk, word","gen, gon",i(u),言う (to say)
+Verbs,立,To stand,ritsu,ta(tsu),立つ (to stand)
+Verbs,会,"To meet, society","kai, e",a(u),会社 (company)
+Adjectives,多,"A lot, many",ta,oo(i),"多い (many), 多分 (probably)"
+Adjectives,少,"A little, few",shou,"suko(shi), suku(nai)",少ない (few)
+Adjectives,古,Old,ko,furu(i),古い (old)
+Adjectives,新,New,shin,atara(shii),"新しい (new), 新聞 (newspaper)"
+Adjectives,大,"Big, a lot","dai, tai",oo(kii),"大きい (big), 大変 (dreadful, immense)"
+Adjectives,小,"Little, small",shou,"chii(sai), ko",小さい (little)
+Adjectives,安,"Cheap, safety, peace",an,yasu(i),安い (cheap)
+Adjectives,高,"Expensive, high",kou,taka(i),高い (expensive)
+Adjectives,長,"Long, leader",chou,naga(i),"長い (long), 部長 (manager)"
+Adjectives,白,White,"haku, byaku","shiro, shiro(i)","白い (white), 面白い (interesting)"
